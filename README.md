@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center" style="display:flex; flex-direction:column; margin-top: 1rem;">
   <img align="center" style="margin-bottom: 1rem;" src="https://github-readme-stats.vercel.app/api?username=hykelvinlee42&count_private=true&theme=nightowl&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hykelvinlee42&theme=nightowl&layout=compact&langs_count=8"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hykelvinlee42&theme=nightowl&layout=compact&langs_count=8">
+  <img align="center" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif">
 </p>
-
-![hackerman](https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif)
