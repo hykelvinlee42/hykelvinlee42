@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align="center" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif">
 
 <!--
 **hykelvinlee42/hykelvinlee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
